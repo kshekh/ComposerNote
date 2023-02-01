@@ -1,5 +1,7 @@
 // import './app.css'
-import './tailwind.scss'
+// import "@fontsource/inter";
+import './assets/fonts/inter.css'
+import './assets/css/tailwind.scss'
 import App from './App.svelte'
 
 const app = new App({

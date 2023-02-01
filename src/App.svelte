@@ -1,10 +1,18 @@
 <script>
 
-  import Login from "./views/Login.svelte";
+  // import Login from "./views/Login.svelte";
+  // import MainMenu from "./views/MainMenu.svelte";
+  // import Record from "./views/Record.svelte";
+  // import TempoSelection from "./views/TempoSelection.svelte";
+  // import Editor from "./views/Editor.svelte";
+  // import EditorDrawer from "./views/EditorDrawer.svelte";
+  import EditorSavesheet from "./views/EditorSavesheet.svelte";
+
 </script>
 
 <main>
-  <Login/>
+  <EditorSavesheet/>     
+ 
 
 <!-- 
   <div>
